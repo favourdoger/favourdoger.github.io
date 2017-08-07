@@ -5,11 +5,14 @@
    ========================================================================== */
 
 .jumbotron {
-background: url('https://c1.staticflickr.com/8/7686/17094730967_2dcd26e662.jpg') ;
-
+  background: url('https://c1.staticflickr.com/8/7686/17094730967_2dcd26e662.jpg') ;
 }
-.jumbotron p {
-color: white;
+
+.jumbotron-about {
+  background: url('https://c1.staticflickr.com/6/5448/7203961392_488357f30a_b.jpg') ;
+}
+.jumbotron p, h1, h2 {
+color: gold;
 text-shadow: 2px 2px black;
 
 }
